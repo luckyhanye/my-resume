@@ -163,7 +163,7 @@ class Home extends React.Component {
                                             <div className="round"></div>
                                             <h4>2011-2015</h4>
                                             <span>北京优贯艺术品有限公司</span>
-                                            <p>任职前期主管，负责前期文件设计，以及公司数据库的管理工作</p>
+                                            <p>任职前期主管，负责前期文件设计，以及公司数据库的管理工作，也负责平时公司的网络维护</p>
                                         </li>
                                     </ul>
                                 </dd>
