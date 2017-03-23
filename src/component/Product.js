@@ -27,7 +27,7 @@ class Product extends React.Component {
                                 <img src={`https://raw.githubusercontent.com/luckyhanye/my-resume/master/images/${item.imgName}.png`} alt={item.imgName}/>
                                 <div className="product-title">
                                     <a href={`https://luckyhanye.github.io/${item.demoAddress}`}>演示demo</a>
-                                    <a href={`https://luckyhanye/${item.codeAddress}`}>源码地址</a>
+                                    <a href={`https://github.com/luckyhanye/${item.codeAddress}`}>源码地址</a>
                                 </div>
                                 <figcaption>{item.desc}</figcaption>
                             </figure>
