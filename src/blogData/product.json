@@ -4,6 +4,5 @@
   {"title":"云美丽详情页","desc":"详情页包含标签页切换的功能，自动倒计时为0时自动更换商品，评论切换。","imgName":"detail","demoAddress":"html-demo/yunmeili/pages/detail.html","codeAddress":"html-demo/tree/gh-pages/yunmeili"},
   {"title":"云美丽支付页","desc":"支付页使用原生的JS来实现地址切换功能，点击地址可以实现切换。购物车功能，可以实现加减商品数量，选择不同的快递运送价格也不同，选择不同的折扣，取消某一个商品等功能。","imgName":"payment","demoAddress":"html-demo/yunmeili/pages/payment.html","codeAddress":"html-demo/tree/gh-pages/yunmeili"},
   {"title":"云美丽登录页","desc":"登录页没有做过多的功能，提交时账户密码不能为空。","imgName":"login","demoAddress":"html-demo/yunmeili/pages/login.html","codeAddress":"html-demo/tree/gh-pages/yunmeili"},
-  {"title":"云美丽注册页","desc":"注册页使用了Js来完成包含邮箱的正则验证、昵称正则验证、密码的正则验证、二次密码确认、只有全部正确，并且点击了复选框才能提交成功。","imgName":"register","demoAddress":"html-demo/yunmeili/pages/register.html","codeAddress":"html-demo/tree/gh-pages/yunmeili"},
-  {"title":"魔赞商城","desc":"使用rem来设置页面中所有的宽度，并用JS来计算出相应的像素，一个手机端的页面。","imgName":"shouji","demoAddress":"html-demo/mobile-interface/html/zjyy.html","codeAddress":"html-demo/tree/gh-pages/mobile-interfacd"}
+  {"title":"云美丽注册页","desc":"注册页使用了Js来完成包含邮箱的正则验证、昵称正则验证、密码的正则验证、二次密码确认、只有全部正确，并且点击了复选框才能提交成功。","imgName":"register","demoAddress":"html-demo/yunmeili/pages/register.html","codeAddress":"html-demo/tree/gh-pages/yunmeili"}
 ]
