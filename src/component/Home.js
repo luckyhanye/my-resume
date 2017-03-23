@@ -144,6 +144,37 @@ class Home extends React.Component {
                                 </dd>
                             </dl>
                         </li>
+
+
+                        <li>
+                            <dl>
+                                <dt>
+                                    <i className="iconfont icon-biaoti"></i>工作经历
+                                </dt>
+                                <dd className="detail-skill">
+                                    <ul>
+                                        <li>
+                                            <div className="round"></div>
+                                            <h4>2010-2011</h4>
+                                            <span>北京盛通印刷股份有限公司</span>
+                                            <p>设计部做平面设计</p>
+                                        </li>
+                                        <li>
+                                            <div className="round"></div>
+                                            <h4>2011-2015</h4>
+                                            <span>北京优贯艺术品有限公司</span>
+                                            <p>任职前期主管，负责前期文件设计，以及公司数据库的管理工作</p>
+                                        </li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </li>
+
+
+
+
+
+
                         <li>
                             <dl>
                                 <dt>
